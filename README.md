@@ -44,8 +44,6 @@ Basé en Normandie, j'accompagne les entreprises à distance partout en France, 
 - **1 500+ utilisateurs** sur une plateforme métier
 - **2 sites** couverts par un ERP au cœur de l'activité opérationnelle
 
-*Chiffres issus de mon expérience professionnelle, présentés sans divulguer d'informations techniques ou commerciales confidentielles.*
-
 ## 🛠️ Environnement technique
 
 ### Développement & architecture logicielle
