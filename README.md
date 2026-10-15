@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Pierre Lecourtois
+# Pierre Le Courtois
 
 ### DSI externalisé · Pilotage SI & ERP · Architecture IT
 
